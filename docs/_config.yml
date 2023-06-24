@@ -9,9 +9,9 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
 # Site Settings
 lang: en-US
-title: Basically Basic
+title: Nature breaks near London
 email: dugan.nash@mailinator.com
-description: "Your new default Jekyll theme"
+description: "all about nature based micro-holidays near london"
 baseurl: "/jekyll-theme-basically-basic"
 url: "https://mmistakes.github.io"
 repository: "mmistakes/minimal-mistakes"
