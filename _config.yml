@@ -16,7 +16,7 @@
 lang: en-US
 title: Micro-holidays in nature near London
 email:
-description:a page about holidays
+description: a page about holidays
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
